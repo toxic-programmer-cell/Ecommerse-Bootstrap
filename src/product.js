@@ -8,7 +8,7 @@ const products= [
     price: 9.99,
     discountPercentage: 10.48,
     rating: 2.56,
-    stock: 99,
+    stock: 0,
     tags: [],
     brand: "Essence",
 
